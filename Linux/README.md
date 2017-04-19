@@ -1,4 +1,4 @@
-<u> <big>Herramientas para Esteganografía en Linux </big> </u>
+**Herramientas para Esteganografía en Linux**
 
 Listado de herramientas:
 
