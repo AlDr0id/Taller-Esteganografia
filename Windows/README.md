@@ -1,7 +1,7 @@
 **Herramientas para Esteganografía en Windows**
 
 - **Deepsound** <br>
-	Toda la info en su web http://jpinsoft.net/deepsound/
+	Toda la info en su web http://jpinsoft.net/deepsound/<br>
 	Archivo para descarga tanto en la página oficial como en este respositorio
 	
 - **GIFAnimator** <br>
@@ -13,17 +13,18 @@
 	Archivo para descarga en este respositorio debido al temporal cierre de la página oficial
 	
 - **HxD** <br>
-	<br>
+	Toda la info en su web https://mh-nexus.de/en/hxd/<br>
 	Archivo para descarga tanto en la página oficial como en este respositorio
 	
 - **MSU Stego Video** <br>
-	<br>
+	Toda la info en su web http://www.compression.ru/video/stego_video/index_en.html<br>
 	Archivo para descarga tanto en la página oficial como en este respositorio
 	
 - **OurSecret** <br>
-	<br>
-	Archivo para descarga tanto en la página oficial como en este respositorio
+	Herramienta para ocultar archivos e información en distintas extensiones de archivo empleando una contraseña<br>
+	Archivo para descarga en este respositorio
 	
 - **xstegsecret** <br>
 	<br>
+	Info en la página de su creador: http://stegsecret.sourceforge.net/indexS.html
 	Archivo para descarga tanto en la página oficial como en este respositorio
