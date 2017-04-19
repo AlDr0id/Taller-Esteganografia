@@ -9,8 +9,8 @@ Listado de herramientas:
 	Toda la info en la web oficial: http://steghide.sourceforge.net/ <br>
 	Instalación: sudo apt-get install steghide<br>
 	Uso:<br>
-	OCULTAR => "steghide embed -ef [archivo a ocultar] -cf [archivo que servirá de camuflaje] -sf [nombre del nuevo archivo a crear]"<br>
-	DESCUBRIR => "steghide extract -sf [archivo que contiene aquello que está oculto) -xf [archivo nuevo a crear con lo extraído]" <br>
+		OCULTAR => "steghide embed -ef [archivo a ocultar] -cf [archivo que servirá de camuflaje] -sf [nombre del nuevo archivo a crear]"<br>
+		DESCUBRIR => "steghide extract -sf [archivo que contiene aquello que está oculto) -xf [archivo nuevo a crear con lo extraído]" <br>
     Añadiendo "-p [contraseña]" tanto para ocultar como para descubrir permite especificar la contraseña a usar
 
 - **SteganographyStudio**<br>
