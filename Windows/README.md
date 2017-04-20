@@ -23,7 +23,3 @@
 - **OurSecret** <br>
 	Herramienta para ocultar archivos e información en distintas extensiones de archivo empleando una contraseña<br>
 	Archivo para descarga en este respositorio
-	
-- **xstegsecret** <br>
-	Info en la página de su creador: http://stegsecret.sourceforge.net/indexS.html
-	Archivo para descarga tanto en la página oficial como en este respositorio
