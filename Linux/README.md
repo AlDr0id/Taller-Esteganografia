@@ -14,13 +14,16 @@ Listado de herramientas:
     Añadiendo "-p [contraseña]" tanto para ocultar como para descubrir permite especificar la contraseña a usar
 
 - **SteganographyStudio**<br>
-    Toda la info en la web oficial: http://stegstudio.sourceforge.net/<br>
-    Archivo para descarga tanto en la página oficial como en este respositorio
+    	Toda la info en la web oficial: http://stegstudio.sourceforge.net/<br>
+    	Archivo para descarga tanto en la página oficial como en este respositorio
 
 - **StegoLSB**<br>
-    Toda la info en el Github de su creador: https://github.com/D14M4NT3/StegoLSB.py<br>
-    Archivo para descarga tanto en la página oficial como en este respositorio
+    	Toda la info en el Github de su creador: https://github.com/D14M4NT3/StegoLSB.py<br>
+    	Archivo para descarga tanto en la página oficial como en este respositorio
+    
+- **Stegb64**<br>
+	Toda la info y descarga en el Github de su creador: https://github.com/hecky/stegb64
 
 - **xstegsecret**<br>
-    Info en la página de su creador: http://stegsecret.sourceforge.net/indexS.html<br>
-    Archivo para descarga tanto en la página oficial como en este respositorio
+    	Toda la info en la página de su creador: http://stegsecret.sourceforge.net/indexS.html<br>
+    	Archivo para descarga tanto en la página oficial como en este respositorio
