@@ -16,6 +16,10 @@ Listado de herramientas:
 - **SteganographyStudio**<br>
     	Toda la info en la web oficial: http://stegstudio.sourceforge.net/<br>
     	Archivo para descarga tanto en la página oficial como en este respositorio
+	
+- **Bless**<br>
+	Editor hexadecimal para Linux<br>
+	Instalación: sudo apt-get install bless
 
 - **StegoLSB**<br>
     	Toda la info en el Github de su creador: https://github.com/D14M4NT3/StegoLSB.py<br>
